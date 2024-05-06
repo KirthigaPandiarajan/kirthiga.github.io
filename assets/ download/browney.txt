@@ -4,7 +4,7 @@ Engineering Lead
 Address 6A, Gangai Nagar 4th main road, Velachery, Chennai – 600042.
 Mobile 9360924986
 Mail kirthiga.rajan18@gmail.com
-Portfolio https://github.com/KirthigaPandiarajan/kirthiga/index.html
+Portfolio https://kirthigapandiarajan.github.io/kirthiga.github.io
 
 Experienced Engineering Lead with 8 years in the IT industry, specializing in software development. Proven track record of leading high-performing teams to deliver cutting-edge solutions. Skilled in agile methodologies, stakeholder management, and fostering innovation. Dedicated to driving strategic outcomes and contributing to organizational success.
 
