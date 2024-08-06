@@ -16,7 +16,7 @@ MySQL
 SASS
 PHP
 Nodejs
-Python 
+React 
 
 EXPERIENCE
 TNQ Tech,  Chennai - Engineering Lead 
