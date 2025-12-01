@@ -29,15 +29,15 @@ Incedo Technology Solutions Limited,  Chennai - Technical Lead
 SEPTEMBER 2024 - Present
     • Placed in Fixed Access Project. Developed and modularized 3 Micro Frontend(MFE) pages, improving deployment efficiency by 30% through component reuse and clear type declarations in Typescript. Implemented comprehensive unit and integration tests, achieving 95% test coverage and enhancing application reliability across desktop and mobile platforms.
     • Build scalable APIs using GraphQL with strict type enforcement, reducing runtime errors by 40% and boosting performance through optimized resolver functions. Cleaned and refactored legacy logs and modules, resulting in a 25% reduction in technical debt and faster debugging cycles.
-    • Designed and executed 5+ API test scenarios using REST Assured in a Maven-based Java project. Automated mobile and web UI workflows with Selenium and Appium, improving regresssion testing speed and ensuring cross-platform consistency.
+    • Designed and executed 5+ API test scenarios using REST Assured in a Maven-based Java project. Automated mobile and web UI workflows with Selenium and Appium, improving regresssion testing speed and ensuring cross-platform consistency.    
+    • Moved to Enterprise Insights team. Delivered full-stack solutions by building RESTful APIs in Node.js and integrating React UI with database systems, accelerating feature delivery speed by 30%.
+    • Built Looker dashboards for NFL September 2025 event using Excel and BigQuery data, and integrated Insight360 for role-based access, enabling real-time insights for 100+ users.
+    • Resolved high-severity OSS security vulnerabilities in Maven dependencies, ensuring 100% compliance with enterprise security standards and reducing risk exposure.
 TNQ Tech,  Chennai - Engineering Lead 
 APRIL 2024– SEPTEMBER 2024
     • Moved to Page Central Project. Conducted feasibility studies for the project on ROI and risk management. Developed cost estimates and project specifications for proposals.
     • Ensured regulatory compliance by staying current on industry standards and proactively addressing potential issues during the development process.
     • Led engineering teams to successfully complete projects 5 days before proposed date and within budget conveyed in proposal time.
-    • Moved to Enterprise Insights team. Delivered full-stack solutions by building RESTful APIs in Node.js and integrating React UI with database systems, accelerating feature delivery speed by 30%.
-    • Built Looker dashboards for NFL September 2025 event using Excel and BigQuery data, and integrated Insight360 for role-based access, enabling real-time insights for 100+ users.
-    • Resolved high-severity OSS security vulnerabilities in Maven dependencies, ensuring 100% compliance with enterprise security standards and reducing risk exposure.
 TNQ Tech,  Chennai - Associate Engineering Lead 
 APRIL 2023 – MARCH 2024
     • Moved to Edit Central Project. This is user friendly editing interfaced browser application mainly with many interactive edit features.
