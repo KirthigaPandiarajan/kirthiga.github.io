@@ -23,6 +23,7 @@ Oracle
 Jest
 Java
 Selenium
+Python
 
 EXPERIENCE
 Incedo Technology Solutions Limited,  Chennai - Technical Lead
@@ -33,6 +34,10 @@ SEPTEMBER 2024 - Present
     • Moved to Enterprise Insights team. Delivered full-stack solutions by building RESTful APIs in Node.js and integrating React UI with database systems, accelerating feature delivery speed by 30%.
     • Built Looker dashboards for NFL September 2025 event using Excel and BigQuery data, and integrated Insight360 for role-based access, enabling real-time insights for 100+ users.
     • Resolved high-severity OSS security vulnerabilities in Maven dependencies, ensuring 100% compliance with enterprise security standards and reducing risk exposure.
+    • Designed landing page and workflow UI for a chatbot platform using LLM visualization and
+response summarization.
+    • Architected APIs to support dynamic query responses and integrated recipe-style workflow
+tabs.
 TNQ Tech,  Chennai - Engineering Lead 
 APRIL 2024– SEPTEMBER 2024
     • Moved to Page Central Project. Conducted feasibility studies for the project on ROI and risk management. Developed cost estimates and project specifications for proposals.
